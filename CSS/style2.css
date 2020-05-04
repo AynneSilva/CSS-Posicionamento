@@ -1,0 +1,83 @@
+.flutuar{
+    float: left;
+    background-color:  #B0E0E6 ;
+    width: 200px;
+    clear: none;
+    position: relative;
+    border:double 1px;
+    border-radius:20px;
+    margin-top: 15px;
+}
+
+h1{
+    color:#8B4513;
+    text-align: center;
+}
+ul li{
+    list-style: none;
+    display: inline;
+    padding: 50px;
+   
+    clear: none;
+}
+
+header{
+      background-color: #B0E0E6;
+      border:double 1px;
+      border-radius:20px;
+}
+nav{
+    list-style: none;
+    border:double 1px;
+    border-radius:20px;
+    background-color: #E0FFFF;
+    margin: 20px;
+    float: center;
+}
+
+body{
+    background-color:  	#F5FFFA;
+      
+    
+}
+p{
+   
+    text-align: right;
+    font-family:16px Arial, "Helvetica Neue"
+}
+a {
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+
+
+/*Links Hover, passa o cursor sobre o link*/
+a:hover{
+    background:#7B68EE; 
+    
+    font-size:350%; 
+    
+}
+
+/*Links Ativos, quando clicado*/
+a:active{
+    color: #e4f371;
+}
+h6{
+    text-align: center;
+
+}
+footer{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: 	#8B4513;
+    background-color: #B0E0E6;
+   padding: 30px;
+   border:double 1px;
+    border-radius:20px;
+  
+}
+img{
+    white-space: nowrap;
+   
+}
